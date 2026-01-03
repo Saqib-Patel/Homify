@@ -1,0 +1,22 @@
+{
+  "name": "Homifyy",
+  "short_name": "Homifyy",
+  "description": "ESP32 Relay Control App",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "theme_color": "black",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "logo1.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo1.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
